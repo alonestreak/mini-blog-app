@@ -35,7 +35,7 @@ Screenshots of website: <br/>
 **Adding new blog** <br/>
 ![GIF](readme_resource/8.png)<br/>
 
-**When user clicks on delete button of blog ** <br/>
+**When user clicks on delete button of blog** <br/>
 ![GIF](readme_resource/9.png)<br/>
 
 **Admin page-1** <br/>
